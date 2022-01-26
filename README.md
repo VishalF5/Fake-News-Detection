@@ -1,6 +1,10 @@
 # Fake-News-Detection
 Use of Supervised machine learning classifiers to detect the fake news.
-Deploying web on Heroku.
+
+
+
+Create web app using Flask.
+Deploying web app on Heroku.
 
 Files:
 1. Static : This file contains css file for web app.
