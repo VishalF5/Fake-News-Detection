@@ -16,3 +16,6 @@ Files:
 7. vector.pkl : pkl file of model creating after model training.
 8. requirements.txt : requirements for deploying web app on Heroku.
 9. nltk.txt : list of nltk.corpus to install them on Heroku while deploying.
+
+
+Heroku : https://fake-news-detection-python.herokuapp.com/
